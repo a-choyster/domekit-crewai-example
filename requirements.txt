@@ -1,2 +1,2 @@
-crewai>=0.100
+crewai>=0.11
 langchain-openai>=0.3
